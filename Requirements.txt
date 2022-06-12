@@ -1,0 +1,6 @@
+Install Below library
+
+numpy
+OpenCV
+Cmake
+face_recognition
